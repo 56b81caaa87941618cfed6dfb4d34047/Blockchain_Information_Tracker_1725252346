@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific action do you want the 'Submit' button to perform?\", \"option1\": \"Submit a form\", \"option2\": \"Navigate to another page\"}, {\"question 2\": \"Where would you like the 'Submit' button to be positioned in the app?\", \"option1\": \"At the bottom of the page\", \"option2\": \"In the center of the screen\"}], \"input_token_count\": 317, \"output_token_count\": 93, \"time_taken\": \"0:00:01.052145\"}",
+        "timestamp": "02092024044702",
+        "message_id": "guest02092024044656"
+    },
+    {
         "role": "user",
         "content": "add a button that says Submit",
         "timestamp": "02092024044658",
