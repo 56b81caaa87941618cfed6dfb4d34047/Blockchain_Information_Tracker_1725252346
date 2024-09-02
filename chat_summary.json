@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"add button with 'Hello World' text\", \"checked\": true}, {\"feature\": \"style the button with colors and hover effects\", \"checked\": false}, {\"feature\": \"add an icon next to the button text\", \"checked\": false}, {\"feature\": \"include tooltips for additional information\", \"checked\": false}, {\"feature\": \"create a confirmation dialog upon button click\", \"checked\": false}], \"input_token_count\": 247, \"output_token_count\": 98, \"time_taken\": \"0:00:01.003562\"}",
+        "timestamp": "02092024044634",
+        "message_id": "guest02092024044624"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a message\", \"option2\": \"Navigate to a different page\"}], \"input_token_count\": 293, \"output_token_count\": 95, \"time_taken\": \"0:00:00.965095\"}",
         "timestamp": "02092024044630",
