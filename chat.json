@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a message\", \"option2\": \"Navigate to a different page\"}], \"input_token_count\": 293, \"output_token_count\": 95, \"time_taken\": \"0:00:00.965095\"}",
+        "message_id": "guest02092024044624",
+        "timestamp": "02092024044630",
+        "component_file_name": "simple_header_component_1725252348",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm working on adding a button that says \"Hello World.\"",
         "message_id": "guest02092024044624",
