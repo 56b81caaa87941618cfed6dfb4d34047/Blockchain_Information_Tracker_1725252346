@@ -9,7 +9,7 @@ INSTRUCTION: Summary: The header component is a nav bar on top of the page -- it
                 <a id="logo-link" href="#" class="flex items-center">
                     <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                     <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-                        BlockchainRadar
+                        Blockchain Information Mapper
                     </span>
                 </a>
                 <div id="menu-toggle-button" class="flex items-center lg:order-2">
